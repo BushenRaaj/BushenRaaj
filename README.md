@@ -13,8 +13,9 @@ I specialize in transforming raw data into actionable business insights through 
 - Built end-to-end ML pipeline with real-time risk scoring
 - Developed Streamlit web application
 - Designed Power BI dashboard for KPI monitoring
-🔗 Live Demo: (your link)
-🔗 GitHub: (project link)
+🔗 Live Demo: https://fraud-detection-intelligence-system-dbcs6mt83ydwsaamhdavbt.streamlit.app/
+
+🔗 GitHub: https://github.com/BushenRaaj/Fraud-Detection-Intelligence-System
 
 ---
 
@@ -42,5 +43,5 @@ I specialize in transforming raw data into actionable business insights through 
 
 ## 📫 Connect With Me
 
-LinkedIn: (your link)
+LinkedIn: https://www.linkedin.com/in/bushen-raaj-y-938924263
 Email: bushenraaj5@gmail.com
